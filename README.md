@@ -7,7 +7,7 @@
 - Curriculum learning with progressive resolution scaling,
 - Final-stage GAN fine-tuning for photorealistic output.
 
-This thesis explores DeRestify’s ability to restore corrupted images across diverse domains such as:
+This project explores DeRestify’s ability to restore corrupted images across diverse domains such as:
 - Medical (X-ray imaging),
 - Surveillance (CCTV footage),
 - Astronomy (James Webb Telescope data),
@@ -77,7 +77,7 @@ All datasets are preprocessed for compatibility with the ResNet-based encoder an
 
 ---
 
-## Thesis PDF
+## Project PDF
 
 The full thesis can be found in the file: [DeRestify: A Robust Image Restoration and Colorization Framework (PDF)](./Masters_Thesis.pdf)
 
